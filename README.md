@@ -1,0 +1,2 @@
+# denemedb
+jsondatabase
